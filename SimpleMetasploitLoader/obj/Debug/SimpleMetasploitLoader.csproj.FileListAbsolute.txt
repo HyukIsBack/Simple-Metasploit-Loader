@@ -1,0 +1,10 @@
+C:\Users\SeungHyuk\source\repos\SimpleMetasploitLoader\SimpleMetasploitLoader\bin\Debug\SimpleMetasploitLoader.exe.config
+C:\Users\SeungHyuk\source\repos\SimpleMetasploitLoader\SimpleMetasploitLoader\bin\Debug\SimpleMetasploitLoader.exe
+C:\Users\SeungHyuk\source\repos\SimpleMetasploitLoader\SimpleMetasploitLoader\bin\Debug\SimpleMetasploitLoader.pdb
+C:\Users\SeungHyuk\source\repos\SimpleMetasploitLoader\SimpleMetasploitLoader\obj\Debug\SimpleMetasploitLoader.csproj.AssemblyReference.cache
+C:\Users\SeungHyuk\source\repos\SimpleMetasploitLoader\SimpleMetasploitLoader\obj\Debug\SimpleMetasploitLoader.csproj.SuggestedBindingRedirects.cache
+C:\Users\SeungHyuk\source\repos\SimpleMetasploitLoader\SimpleMetasploitLoader\obj\Debug\SimpleMetasploitLoader.Properties.Resources.resources
+C:\Users\SeungHyuk\source\repos\SimpleMetasploitLoader\SimpleMetasploitLoader\obj\Debug\SimpleMetasploitLoader.csproj.GenerateResource.cache
+C:\Users\SeungHyuk\source\repos\SimpleMetasploitLoader\SimpleMetasploitLoader\obj\Debug\SimpleMetasploitLoader.csproj.CoreCompileInputs.cache
+C:\Users\SeungHyuk\source\repos\SimpleMetasploitLoader\SimpleMetasploitLoader\obj\Debug\SimpleMetasploitLoader.exe
+C:\Users\SeungHyuk\source\repos\SimpleMetasploitLoader\SimpleMetasploitLoader\obj\Debug\SimpleMetasploitLoader.pdb
